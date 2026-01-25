@@ -12,7 +12,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data
-df = pd.read_csv("/content/final_livability.csv")
+df = pd.read_csv("dataset/final_livability.csv")
 
 st.title("🏙️ UrbanNest – Neighborhood Livability Explorer")
 
