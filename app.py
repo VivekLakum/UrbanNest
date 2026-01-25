@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("dataset/final_livability.csv")
+df = pd.read_csv("/content/final_livability.csv")
 
 st.set_page_config(page_title="UrbanNest", layout="centered")
 
