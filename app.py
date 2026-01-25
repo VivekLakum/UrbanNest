@@ -43,4 +43,3 @@ st.markdown("""
 Livability = 0.6 × Affordability + 0.4 × AQI
 """)
 
-!ls -F
